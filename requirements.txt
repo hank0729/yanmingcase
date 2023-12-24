@@ -7,3 +7,5 @@ torchvision
 torch
 scikit-learn
 tqdm
+Falsk
+os
